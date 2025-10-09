@@ -34,3 +34,6 @@ For support, please open an issue on GitHub or contact the maintainers.
 
 ## Additional Notes
 This section contains extra information and notes about the project.
+
+## Future Enhancements
+Planned improvements and new features for upcoming releases.
