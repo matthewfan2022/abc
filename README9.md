@@ -37,3 +37,6 @@ This section contains extra information and notes about the project.
 
 ## Future Enhancements
 Planned improvements and new features for upcoming releases.
+
+## Contact Information
+Reach out to the development team for questions or feedback.
