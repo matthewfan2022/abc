@@ -31,3 +31,6 @@ example.run();
 
 ## Support
 For support, please open an issue on GitHub or contact the maintainers.
+
+## Additional Notes
+This section contains extra information and notes about the project.
